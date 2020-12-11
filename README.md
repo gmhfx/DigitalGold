@@ -18,8 +18,6 @@ Debt from https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the
 
 Bitcoin from CoinbasePro, 1-minute OHLCV 7/20/2015 - present
 
-http://www.espn.com/college-sports/football/recruiting/rankings
-
 ## Chart Descriptions
 
 US Government Debt bar chart with subplot of Bitcoin to Gold ratio over time.
