@@ -22,9 +22,9 @@ http://www.espn.com/college-sports/football/recruiting/rankings
 
 ## Chart Descriptions
 
-US Government Debt bar chart with subplot of Bitcoin to Gold ratio over time..
+US Government Debt bar chart with subplot of Bitcoin to Gold ratio over time.
 
-https://gmhfx.github.io/Bubble_Map/
+https://gmhfx.github.io/DigitalGold
 
 ### Contact
 gmhfx20@gmail.com
